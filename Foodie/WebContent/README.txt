@@ -6,7 +6,7 @@ website : http:www.FoodiePoint.in
 
 AUTHOR:
 DESIGNED & DEVELOPED by Shubham Singh Kushwah
-website : http://www.shubhamkushwah.com
+website : http://www.shubhamkushwah.com.
 
 
 CREDITS:
