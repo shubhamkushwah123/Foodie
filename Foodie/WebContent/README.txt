@@ -1,13 +1,12 @@
 
 TITLE: 
-Foodee - One Page Responsive Free HTML5 template
+Foodie - Restaurant Website based in NL
+
+website : http:www.FoodiePoint.in
 
 AUTHOR:
-DESIGNED & DEVELOPED by FREEHTML5.co
-
-Website: http://freehtml5.co/
-Twitter: http://twitter.com/fh5co
-Facebook: http://facebook.com/fh5co
+DESIGNED & DEVELOPED by Shubham Singh Kushwah
+website : http://www.shubhamkushwah.com
 
 
 CREDITS:
